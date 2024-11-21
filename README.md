@@ -44,7 +44,7 @@ Automatic-Collage-Creator/
 ### Setup and Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Automatic-Collage-Creator.git
+   git clone https://github.com/AasavChauhan1/Automatic-Collage-Creator.git
    cd Automatic-Collage-Creator
    ```
 2. Install dependencies:
