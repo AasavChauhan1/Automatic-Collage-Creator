@@ -21,15 +21,15 @@ Automatic-Collage-Creator/
 ├── collage_creator.py      # Python script for creating collages
 ├── requirements.txt        # Dependencies for the project
 ├── example_subfolders/     # Example folders containing images
-│   ├── Folder1/
-│   │   ├── image1.jpg
-│   │   ├── image2.jpg
-│   │   ├── ...
-│   └── Folder2/
-│       ├── image1.jpg
-│       ├── image2.jpg
-│       ├── ...
-└── outputs/                # Generated collages (optional location)
+    ├── Folder1/
+    │   ├── image1.jpg
+    │   ├── image2.jpg
+    │   ├── ...
+    └── Folder2/
+        ├── image1.jpg
+        ├── image2.jpg
+        ├── ...
+                            # Generated collages (optional location)
 ```
 
 ## 🛠️ Technologies Used
@@ -92,7 +92,8 @@ example_subfolders/
 ## 📸 Sample Output
 Here’s an example of a generated collage:
 
-![Sample Collage](https://via.placeholder.com/500)  
+![Sample Collage]([example_subfolders/Folder1/_collage.jpg](https://github.com/user-attachments/assets/3596478e-cc8d-4142-88ff-f4c6525c7619))
+
 *Example 3x3 collage with 9 images.*
 
 ## 🔧 Customization
@@ -110,9 +111,9 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## 🌐 Connect
 For queries or suggestions, contact:
 - **Name**: Aasav Chauhan
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Instagram**: [@your_handle](https://instagram.com/your_handle)
-
+- **GitHub**: [@AasavChauhan1](https://github.com/your-username)
+- **LInked In**: [@Aasav Chauhan](https://www.linkedin.com/in/aasav-chauhan/)
+- **Instagram**: [@aasav_chauhan](https://instagram.com/your_handle)
 ---
 
 Happy coding! 🚀
