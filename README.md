@@ -93,6 +93,8 @@ example_subfolders/
 Here’s an example of a generated collage:
 
 ![Sample Collage]([example_subfolders/Folder1/_collage.jpg](https://github.com/user-attachments/assets/3596478e-cc8d-4142-88ff-f4c6525c7619))
+![image](https://github.com/user-attachments/assets/5978e047-c315-44cb-b478-c94c99a56a96)
+
 
 *Example 3x3 collage with 9 images.*
 
